@@ -5,7 +5,7 @@
 
 ### Task :
 To create a Face Recognition model either using pre trained Deep Learning models (VGG16 , Inception ,MobileNet etc..) or create own model from start.
-
+<br><hr><br>
 So, I used **VGG16 model** which is pre-trained on the **ImageNet dataset** and provided in the **keras library** for use. it saves huge efforts required to re-invent the model (as it requires a huge amount of RAM and CPU ).
 
 **For this activity I have used three YouTube creators as 3 Classes i.e, ( Carryminati , Ashish Chanchlani and Bhuvan Bam )**
