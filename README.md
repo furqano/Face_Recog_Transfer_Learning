@@ -1,9 +1,9 @@
 # Face_Recognition Using Transfer Learning
 
 
-## “Transfer Learning” which enables us to use pre-trained models from other people by making small changes.
+### “Transfer Learning” which enables us to use pre-trained models from other people by making small changes.
 
-### Task :
+### About Project :
 To create a Face Recognition model either using pre trained Deep Learning models (VGG16 , Inception ,MobileNet etc..) or create own model from start.
 <br><hr><br>
 So, I used **VGG16 model** which is pre-trained on the **ImageNet dataset** and provided in the **keras library** for use. it saves huge efforts required to re-invent the model (as it requires a huge amount of RAM and CPU ).
